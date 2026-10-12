@@ -1,6 +1,6 @@
 # Hi, I'm Mikołaj 👋
 
-🎓 Third-year Information and Communication Technology student at AGH University of Cracow.
+🎓 Third-year Information and Communication Technologies student at AGH University of Cracow.
 
 I'm developing in fields such as telecommunications, wireless communication, computer networks,
 software development, signal processing and electronics.
